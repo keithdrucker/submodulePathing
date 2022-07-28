@@ -1,0 +1,8 @@
+{
+  "name": "packages",
+  "type": "commonjs",
+  "exports": {
+    "./a": "./packageA/submodule1.js",
+    "./b": "./submodule2.js"
+  }
+}
